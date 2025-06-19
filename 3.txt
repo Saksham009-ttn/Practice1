@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Changing from branch master
+=======
+Changing from branch f
+>>>>>>> f
